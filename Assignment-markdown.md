@@ -24,7 +24,7 @@ In the colum - **Total rainfall (mm)** , data **VST** will be replaced to **0** 
 ## Dashboard Layout
 The dashboard layout is simple and clear, which includes a title, a day selecter, a summary and a few graphics(will be talk later). By using the day selecter, the dashboard are generally like this:
 
-![alt text](Overview.png)
+![alt text](Picture/Overview.png)
 
 ***
 
