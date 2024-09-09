@@ -1,6 +1,13 @@
 # Assignment 01 - Data Visualization of Macau Weather Dataset - Dashboard
+## MC464537 LAO PAK KUONG
 > As the assignment of the course, I made a simple dashboard as my analysis and data visualization by running the jupyter code that in the submission file.
 ***
+
+## Notice:
+### The dashboard will be run on the localhost, user can input localhost:8050 to a better view in the browser.
+
+***
+
 ## Jupyter codes importing:
 For finish my assignment, I used the following libraries and modules to import and analyze the data.
 
