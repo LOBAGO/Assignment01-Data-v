@@ -31,7 +31,7 @@ In the colum - **Total rainfall (mm)** , data **VST** will be replaced to **0** 
 ## Dashboard Layout
 The dashboard layout is simple and clear, which includes a title, a day selecter, a summary and a few graphics(will be talk later). By using the day selecter, the dashboard are generally like this:
 
-![alt text](Picture/Overview.png)
+![alt text](Overview.png)
 
 - all figure will update according to the day that uesr select.
 - all figure will have some tools for better view in the picture (e.g: zoomin, zoomout, reset, autoscale, hover data, etc.)
@@ -43,7 +43,7 @@ The dashboard layout is simple and clear, which includes a title, a day selecter
 
 This graphic mainly shows how three temperature measurements (**mean maximum**, **mean**, and **mean minimum**) temperatures—change over a period.
 
-![alt text](Picture/Temp-Trand.png)
+![alt text](Temp-Trand.png)
 
 In this picture, three line shows three trand of temperature
 
@@ -59,7 +59,7 @@ Using line-chart can be effectively visualizes temperature trends over time, all
 
 This graphic mainly shows the average temperature by days in time priod that user selected, which can be used to analyze the temperature changes and the temperature distribution.
 
-![alt text](Picture/Average_Temprature.png)
+![alt text](Average_Temprature.png)
 
 ***
 
@@ -68,7 +68,7 @@ This graphic mainly shows the average temperature by days in time priod that use
 This picture shows the total rainfall by month in the time priod that user seleted,
 the color of the block represents the amount of rainfall in that month. The deeper the color, the more rainfall in that month.
 
-![alt text](Picture/Heatmap.png)
+![alt text](Heatmap.png)
 
 ### Point Out:
 Thrugh the heatmap, I find out a outstanding data (2008/06) which the total rainfall is 1204 mm, this is the largest number of total rainfall in the dataset. So I try to find out the reason of this highest record:
@@ -83,7 +83,7 @@ Thrugh the heatmap, I find out a outstanding data (2008/06) which the total rain
 
 This picture mainly shows the relationship between Mean Temperature and Mean reaative humidity in the time priod that user seleted.
 
-![alt text](Picture/Scatter_Plot.png)
+![alt text](Scatter_Plot.png)
 
 This picture shows that a huge number of data refers to 25°C and 80% relative humidity, which is the most common weather condition in Macau.
 
@@ -93,7 +93,7 @@ This picture shows that a huge number of data refers to 25°C and 80% relative h
 
 This picture mainly shows the distribution of temperature in each month in the time priod that user seleted.
 
-![alt text](Picture/Box_Plot.png)
+![alt text](Box_Plot.png)
 
 ***
 
@@ -101,7 +101,7 @@ This picture mainly shows the distribution of temperature in each month in the t
 
 This picture mainly shows the total rainfall in each month (summerize all year) in the time priod that user seleted.
 
-![alt text](Picture/Bar_Chart.png)
+![alt text](Bar_Chart.png)
 
 ***
 
@@ -114,7 +114,7 @@ The density contour lines represent the concentration of data points in specific
 - Darker or thicker contours indicate areas with a higher concentration of data points (higher density).
 - Lighter or thinner contours indicate areas with a lower concentration of data points (lower density).
 
-![alt text](Picture/Densitity_Contour.png)
+![alt text](Densitity_Contour.png)
 
 ***
 
@@ -122,7 +122,7 @@ The density contour lines represent the concentration of data points in specific
 
 This picture mainly shows the average insolation duration in each season in the time priod that user seleted. The stacked bar chart contains four bar, which are spring, summer, autumn and winter. The height of the bar represents the average insolation duration in the time priod.
 
-![alt text](Picture/Stacked_Bar_Chart.png)
+![alt text](Stacked_Bar_Chart.png)
 
 ***
 
